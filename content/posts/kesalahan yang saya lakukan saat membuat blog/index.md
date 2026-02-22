@@ -46,7 +46,7 @@ Jika itu sudah dilakukan masih banyak lagi yang harus dilakukan agar pageview bi
 - SEO on page
 - dan lainnya
 
-Ya, artikel untuk menaikkan page view banyak bertebaran di mbah google atau bisa langsung cek saja [panduanim](https://panduanim.com) ada banyak artikel berbobot yang bisa kamu praktekkan.
+Ya, artikel untuk menaikkan page view banyak bertebaran di mbah google yang bisa kamu praktekkan.
 
 ## Cek Google Adsense Tiap Saat
 

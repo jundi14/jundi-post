@@ -70,7 +70,7 @@ FYI oli yang bekerjasama dengan planet ban adalah X-Ten, oli ester berkualitas t
 
 Mengapa oli dengan tingkat ester bisa lebih murah dibandingkan merek lain?
 
-Karena oli dikirim langsung dari pabriknya secara eksklusif ke planet ban, sehingga rantai distribusi sangat pendek menjadikan [oli X-ten bisa murah](https://www.motorplus-online.com/read/251209054/oli-x-ten-punya-spek-tinggi-tapi-harganya-murah) dengan spek yang cukup tinggi.
+Karena oli dikirim langsung dari pabriknya secara eksklusif ke planet ban, sehingga rantai distribusi sangat pendek menjadikan oli X-ten bisa murah dengan spek yang cukup tinggi.
 
 ### Tidak Fleksibel
 

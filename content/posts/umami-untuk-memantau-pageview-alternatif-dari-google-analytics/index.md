@@ -93,7 +93,7 @@ Lalu buatlah sebuat team, dengan sebuah nama yang kamu sukai.
 
 Ya, inilah tahapan inti, yaitu memasang umami.
 
-Yang perlu kita lakukan adalah mengakses halaman [umami](https://umami.is/docs/running-on-vercel) untuk menginstal umami di vercel.
+Yang perlu kita lakukan adalah mengakses halaman ini untuk menginstal umami di vercel.
 
 ![Running on Vercel](./running-on-vercel.png)
 
