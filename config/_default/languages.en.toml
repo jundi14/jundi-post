@@ -9,15 +9,15 @@ title = "Blog | Jundi Mubarok"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/circle-avatar-100px.png"
-  secondaryLogo = "img/circle-avatar-100px.png"
+  logo = "/img/circle-avatar-100px.png"
+  secondaryLogo = "/img/circle-avatar-100px.png"
   description = "Halo, saya Jundi. Blog ini tempat nongkrongnya cerita-cerita ringan, catatan random, dan hal-hal yang kadang penting… kadang juga nggak 😁"
   copyright = "Built with **Hugo** & [**Blowfish**](https://blowfish.page). Hosted on [**Netlify**](https://netlify.com)"
 
 [params.author]
    name = "Jundi Mubarok"
 #email = "jundimubarok74@gmail.com"
-   image = "/img/circle-avatars-2.png"
+   image = "/img/jundi-kartun-rm-bg.png"
    imageQuality = 60
    headline = "*Ngobrol Lewat Tulisan Ringan*"
    bio = "Ngobrol Lewat Tulisan Ringan"
