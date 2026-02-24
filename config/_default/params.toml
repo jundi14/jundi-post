@@ -18,7 +18,7 @@ disableTextInHeader = true
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
-defaultSocialImage = "/sampul.png" # used as default for social media sharing (Open Graph and Twitter)
+defaultSocialImage = "img/sampul.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
 
