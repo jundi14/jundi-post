@@ -22,14 +22,8 @@
 
 [[main]]
   name = "Support"
-  #pre = "mug-hot"
+  pre = "mug-hot"
   url = "https://www.nihbuatjajan.com/jundi"
-  weight = 30
-
-[[main]]
-  name = "Streams"
-  pre = "discourse"
-  url = "https://streams.place/jundi"
   weight = 45
 
 [[main]]
