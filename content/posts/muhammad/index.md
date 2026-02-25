@@ -1,7 +1,7 @@
 ---
-title: Antara Kagum dan Tabu: Menimbang Gaya Bahasa Balqis dalam Memotret Sejarah Rasulullah
+title: "Menimbang Gaya Bahasa Balqis dalam Memotret Sejarah Rasulullah"
 slug: ilmu itu di beli
-date: 2026-02-26
+date: 2026-02-25
 description: 
 categories: Coretan
 tags: 
