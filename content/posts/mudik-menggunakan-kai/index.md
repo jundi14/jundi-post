@@ -7,6 +7,7 @@ date: 2025-03-17
 tags:
   - mudik
 draft: false
+showComments: true
 ---
 
 ## Saatnya Memesan Tiket Kereta!!

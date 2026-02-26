@@ -6,6 +6,7 @@ categories: Coretan
 date: 2025-05-23
 tags:
 draft: false
+showComments: true
 ---
 
 Dengan kondisi ruangan yang gelap dan semburat cahaya dari lampu LED teras rumah, dan kubuat ruangan senyaman mungkin untuk anak tidur.

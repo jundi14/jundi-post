@@ -6,6 +6,7 @@ categories: Coretan
 date: 2025-04-06
 tags:
 draft: false
+showComments: true
 ---
 
 Mudik tepat di hari lebaran, tanggal 1 syawal 1446 -31 Maret 2025- bukanlah hal yang ingin saya lakukan, tapi ada alasan sehingga saya terpaksa mengambil di tanggal tersebut.
