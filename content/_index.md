@@ -1,4 +1,4 @@
 ---
 title: "Jundi Mubarok"
-description: "Halo, saya Jundi. Blog ini tempat nongkrongnya cerita-cerita ringan, catatan random, dan hal-hal yang kadang penting… kadang juga nggak 😁"
+description: "Ngobrol lewat tulisan ringan bersama Jundi Mubarok. Menghadirkan catatan harian, opini aplikasi, dan cerita perjalanan yang relatable untuk teman ngopi Kamu😁"
 ---
