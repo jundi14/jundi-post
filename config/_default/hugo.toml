@@ -27,7 +27,7 @@ enableEmoji = true
   series = "series"
 
 [sitemap]
-  changefreq = 'weekly'
+  changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.6
 

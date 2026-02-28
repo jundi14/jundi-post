@@ -1,7 +1,7 @@
 ---
 title: Menimbang Gaya Bahasa Balqis dalam Memotret Sejarah Rasulullah
-slug: ilmu itu di beli
-date: 2026-02-25
+slug: Gaya Bahasa dalam Memotret Sejarah Rasulullah
+date: 2026-02-27
 description: 
 categories: Coretan
 tags: 
@@ -14,45 +14,46 @@ Awal bulan Februari tahun ini saya membaca tulisan influencer di instagram. Balq
 
 *Disclaimer: ini hanya opini pribadi saya, dan saya belum melihat seluruh kontennya hanya konten terbarunya saja.*
 
-Ini instagramnya balqis humaira
+Ini instagramnya Balqis Humaira
 
-Tulisan yang memicu pro maupun kontra, memang tulisannya menarik jika dibaca oleh kacamata rentang usia muda kisaran 18-35 tahun. Tapi jika dilihat dari kacamata agama islam terutama islam dirasa sedikit kurang tepat diksi katanya.
+Tulisan yang memicu pro maupun kontra, memang tulisannya menarik jika dibaca oleh kacamata rentang usia muda kisaran 18-35 tahun. Tapi jika dilihat dari kacamata agama islam terutama islam dirasa sedikit kurang tepat diksi kata di konten terbarunya.
 
-Dahulu balqis seringkali mengkritik tentang kondisi politik di negeri ini, banyak tulisannya yang trending karena pemilihan diksi yang tidak biasa.
+Akhir-akhir ini tulisannya beralih ke tulisan yang berkaitan tentang sejarah Nabi Muhammad *Shalallahu 'alaihi wasallam*.
 
-Tapi akhir-akhir ini tulisannya beralih ke tulisan yang berkaitan tentang sejarah Nabi Muhammad *Shalallahu 'alaihi wasallam*.
+Dahulu balqis seringkali mengkritik tentang kondisi politik di negeri ini.
 
 Tidak lagi atau mungkin belum memulai kembali untuk membahas perpolitikan. 
 
 Entah, mungkin sudah terlalu lelah untuk membahas dunia politik indonesia yang semakin hari semakin  aneh.
 
-Ada satu keunikannya dalam gaya penulisan ketika membahas kisah Nabi Muhammad *Shalallahu 'alaihi wasallam*.
+Ada satu 'keunikannya' dalam gaya penulisan ketika membahas kisah Nabi Muhammad *Shalallahu 'alaihi wasallam*.
 
-Balqis menuliskan dalam e-booknya hanya nama nabi. Tanpa gelar, tanpa panggilan mulia, hanya ada "MUHAMMAD". 
+Balqis menuliskan di feed instagramnya yang membahas tentang sejarah Nabi Muhammad *Shalallahu 'alaihi wasallam* tapi tanpa gelar, tanpa panggilan mulia, hanya ada "MUHAMMAD". 
 
 Saya rasa ini sebuah kesalahan.
 
-Tapi coba lihat dari sisi lain, Nabi Muhammad *Shalallahu 'alaihi wasallam* tidak pernah meminta ummatnya untuk memanggil beliau dengan panggilan yang paling mulia. Sayyidina misalnya, atau Baginda.
+Kita sebagai ummat islam mengetahui bahwa Nabi Muhammad *Shalallahu 'alaihi wasallam* adalah manusia terbaik sepanjang sejarah manusia dan juga beliau ma'shum, sudah sepatutnya memanggil dengan panggilan yang mulia. "Rasulullah, "Nabi", dan semisalnya.
 
-Tapi kita sebagai ummat islam dan mengetahui bahwa Nabi Muhammad *Shalallahu 'alaihi wasallam* adalah manusia terbaik sepanjang sejarah manusia yang ma'shum, sudah sepatutnya memanggil dengan panggilan yang mulia. "Rasulullah, "Nabi", dan semisalnya.
+Bahkan Allah Subhanahu wata'ala pun memanggil Nabi Muhammad dengan panggilan yang spesial dibandingkan nabi-nabi sebelumnya. Ya kalian bisa cek sendiri di youtube dan cek langsung di Al-Qur'an.
 
-Jadi, menurut saya tulisannya balqis humaira ini bagus jika tujuannya untuk menarik kawula muda supaya lebih tertarik kepada sejarah Rasulullah *Shalallahu 'alaihi wasallam* karena tulisannya yang membuat saya ingin terus membaca sampai akhir dan gaya bahasanya yang *socrates*. 
+Jadi, menurut saya tulisannya balqis humaira ini lebih cocok jika targetnya pemuda hijrah dan perlu pemahamaman tentang sejarah nabinya.
+
+Karena tulisannya ini bisa menampilkan sisi basyar (manusiawi) Nabi agar lebih mudah dicintai secara emosional oleh siapa pun, termasuk bahkan non-Muslim.
 
 Tapi jika tujuannya untuk merendahkan nabi secara tidak langsung, ini yang keliru, semoga tidak.
 
-Saya pernah membeli salah satu e-booknya seharga 10 ribuan yang isinya menceritakan tentang kisah perang pertama Rasulullah *Shalallahu 'alaihi wasallam*, yaitu perang badar, dan isi tulisannya membawa pikiran saya masuk ke dalam kisah peperangan badar. AMAZING!
+Saya pernah membeli salah satu e-booknya seharga 10 ribuan yang isinya menceritakan tentang kisah perang pertama Rasulullah *Shalallahu 'alaihi wasallam*, yaitu perang badar, isi tulisannya membawa pikiran saya masuk ke dalam kisah peperangan badar. AMAZING!
 
-Kisah yang dibawakan sangat menarik, uang 10 ribu rupiah yang saya keluarkan sangat *value for money*.
+Tapi yang saya heran kenapa masih ada aja yang mengomentari hal semacam...
 
-Kontra? Banyak.
+*"Loh kok berbayar kalau mau lanjut baca ceritanya..kirain gratis"* 
 
-- Kok berbayar sih tulisannya
-- tolong pake kata nabi jangan hanya nama muhammad
+Balqis menuliskan gaya bercerita yang berbeda, saya yakin ngga sembarang orang bisa menulis cerita itu dengan tulisan yang mengalir tapi tidak bertele-tele dan membosankan, mungkin seperti gaya tulisan sokrates ya.
 
-2 kalimat itu yang sering diulang di kolom komentar.
+Sepertinya target pembacanya juga sangat sempit ngga semua orang bisa menerima hal itu, tapi untuk urusan balqis mau menjadikan itu berbayar ataupun nggaknya itu urusan dia, toh juga itu butuh riset, waktu dan tenaga untuk tulisannya.
 
-Kalau kita melihat dari kondisi ini, saya ingin melihat dari 2 sisi : 
-1. Pertama, sebenarnya rasulullah saw itu tidak ingin diagungkan oleh para sahabatnya atau umatnya.
-2. Kedua, kita muslim dan sudah sewajarnya kita mengucapkan kata kata kehormatan yang dimiliki oleh seseorang. Dalam kasus ini berarti nabi saw
+Untuk saya pribadi *worth it* kok baca ebooknya. Entah kalian, tapi kalau liat contoh komentar tadi, saya yakin tulisannya balqis sudah bisa membuat orang penasaran, makanya 'ngambek' di kolom komentar.
 
-Pada kesimpulan, saya merasa bahwa tulisan ini memang menargetkan bukan hanya orang muslim, tapi orang non muslim, karena gaya bahasa socrates, menarik perhatian bagi pembaca di lintas agama.
+Pada kesimpulan, saya merasa bahwa tulisan ini memang menargetkan bukan hanya orang muslim, tapi orang non-muslim, karena gaya bahasa socrates, menarik untuk dilanjutkan tiap kata demi kata bahkan merasa tulisannya kurang panjang ketika sampai di akhir halaman.
+
+Kalau menurutmu gimana?
