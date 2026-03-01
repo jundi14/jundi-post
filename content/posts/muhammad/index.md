@@ -1,20 +1,20 @@
 ---
 title: Menimbang Gaya Bahasa Balqis dalam Memotret Sejarah Rasulullah
 slug: Gaya Bahasa dalam Memotret Sejarah Rasulullah
-date: 2026-02-27
+date: 2026-02-28
 description: 
 categories: Coretan
 tags: 
     - 100daystooffload
 showComments: true
 showTableOfContents: false
-draft: true
+draft: false
 ---
 Awal bulan Februari tahun ini saya membaca tulisan influencer di instagram. Balqis namanya, khas dengan fotonya ditambah kata kata clickbait dengan cerita yang asik dibaca khas bahasa anak jaman sekarang.
 
 *Disclaimer: ini hanya opini pribadi saya, dan saya belum melihat seluruh kontennya hanya konten terbarunya saja.*
 
-Ini instagramnya Balqis Humaira
+Ini instagramnya [Balqis Humaira](https://www.instagram.com/balqishumaira77/)
 
 Tulisan yang memicu pro maupun kontra, memang tulisannya menarik jika dibaca oleh kacamata rentang usia muda kisaran 18-35 tahun. Tapi jika dilihat dari kacamata agama islam terutama islam dirasa sedikit kurang tepat diksi kata di konten terbarunya.
 
