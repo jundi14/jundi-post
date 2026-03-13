@@ -9,8 +9,8 @@ title = "Blog | Jundi Mubarok"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "/img/logo-header-hitam.png"
-  secondaryLogo = "/img/logo-header-putih.png"
+  logo = "/img/logo-header-putih.png"
+  secondaryLogo = "/img/logo-header-hitam.png"
   description = "Ngobrol lewat tulisan ringan bersama Jundi Mubarok. Menghadirkan catatan harian, opini aplikasi, dan cerita perjalanan yang relatable untuk teman ngopi Kamu 😁"
   copyright = "Built with **Hugo** & [**Blowfish**](https://blowfish.page). Hosted on [**Netlify**](https://netlify.com)"
 
