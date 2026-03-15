@@ -21,10 +21,6 @@ Saya menggunakan aplikasi berikut ini untuk mengaplikasikan fitur berkaitan tent
 
 Situs ini di-host oleh Netlify. Kamu dapat membaca tentang kebijakan privasi mereka [disini](https://www.netlify.com/privacy/ 'Netlify Privasi')
 
-#### PencilBooth
-
-Saya menggunakan layanan pencil booth untuk mengumpulkan email bagi mereka yang ingin menjadi pelanggan website ini, kamu dapat membaca kebijakan privasi mereka [disini](https://pencilbooth.com/privacy) 
-
 #### Letterbird   
 
 Saya menggunakan layanan Letterbird untuk membuat formulir kontak di website ini yang berfungsi untuk menerima pesan dan akan diteruskan ke email pribadi saya, kamu bisa membaca kebijakan privasinya [disini](https://policies.goodenough.us/privacy/).
