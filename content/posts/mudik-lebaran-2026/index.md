@@ -11,4 +11,4 @@ showTableOfContents: true
 draft: true
 ---
 
-Setiap liburan sekolah pasti akan saya sempatkan untuk mudik ke bekasi
+Setiap liburan sekolah pasti akan saya sempatkan untuk mudik ke bekasi, liburan kali ini sudah saya persiapkan tiket kereta sejak H-45
