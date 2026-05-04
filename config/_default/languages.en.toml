@@ -31,8 +31,7 @@ title = "Blog | Jundi Mubarok"
 #     { threads = "https://www.threads.net/@jundi.mubarok" },
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
-# { telegram = "https://t.me/jundipost" }
-#     ,
+#     { telegram = "https://t.me/jundipost" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { tiktok = "https://tiktok.com/@username" },
