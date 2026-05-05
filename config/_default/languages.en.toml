@@ -9,15 +9,15 @@ title = "Jundi Mubarok"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "/img/logo-header-putih.png"
-  secondaryLogo = "/img/logo-header-hitam.png"
+  logo = "/img/logo-header-hitam.png"
+  #secondaryLogo = "/img/logo-header-hitam.png"
   description = "Ngobrol lewat tulisan ringan bersama Jundi Mubarok. Menghadirkan catatan harian, opini aplikasi, dan cerita perjalanan yang relatable untuk teman ngopi Kamu 😁"
   copyright = "Built with **Hugo** & [**Blowfish**](https://blowfish.page). Hosted on [**Netlify**](https://netlify.com)"
 
 [params.author]
    name = "Jundi Mubarok"
 #email = "jundimubarok74@gmail.com"
-   image = "/img/Gemini_Generated_Image.png"
+   image = "/img/photo.jpg"
    imageQuality = 50
    headline = "*Ngobrol Lewat Tulisan Ringan*"
    bio = "Ngobrol Lewat Tulisan Ringan"
